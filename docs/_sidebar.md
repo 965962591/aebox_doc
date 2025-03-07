@@ -1,0 +1,18 @@
+* [首页](/)
+* 使用指南
+  * [快速开始](/guide/quickstart.md)
+  * [更新日志](/guide/updatelog.md)
+  * [主界面](/guide/main.md)
+  * MCE
+    * [24色卡测试](/guide/mce/colorchart.md)
+    * [枯叶图测试](/guide/mce/deadleaves.md)
+    * [人脸测试](/guide/mce/face.md)
+  * 对比调试
+    * [导入对比机图片](/guide/others/compare.md)
+    * [lab/rgb统计](/guide/others/lab.md)
+    * [tuning界面](/guide/others/tuning.md)
+    * [重命名工具](/guide/others/rename.md)
+    * [bat脚本](/guide/others/bat.md)
+    * [图片编辑](/guide/others/image.md)
+    * [虚拟光感](/guide/others/lux.md)
+* [常见问题](/guide/faq.md)
